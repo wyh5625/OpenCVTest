@@ -1,0 +1,3 @@
+include ':ImageFiltering', ':featureextraction', ':sift', ':mask', ':chessboardrecognition'
+rootProject.name='OpenCVTest'
+include ':openCVLibrary343'

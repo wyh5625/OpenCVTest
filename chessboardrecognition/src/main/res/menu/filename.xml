@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/OpenGallery"
+        android:title="@string/OpenGallery"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/Contour"
+        android:title="@string/contour"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/SubContour"
+        android:title="@string/find_all_contours"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/blur_and_thres"
+        android:title="@string/blur_and_thres"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/CannyEdges"
+        android:title="@string/CannyEdges"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/HoughLine"
+        android:title="@string/HoughLine"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/lines_and_points"
+        android:title="@string/cluster_lines_and_obtain_intersection"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/match_chessboard"
+        android:title="@string/match_chessboard"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/perspective_transform"
+        android:title="@string/perspective_transform"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/show_AOI"
+        android:title="@string/show_aoi"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/show_AOI_origin"
+        android:title="@string/show_aoi_original"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+    <item android:id="@+id/Settings"
+        android:title="@string/title_activity_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/OpenGallery"
+        android:title="@string/OpenGallery"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/quick_load"
+        android:title="Quick Load"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/DoG" android:title="@string/DoG"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/CannyEdges"
+        android:title="@string/CannyEdges"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/SobelFilter"
+        android:title="@string/SobelFilter"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/HarrisCorner"
+        android:title="@string/HarrisCorner"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/HoughLine"
+        android:title="@string/HoughLine"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/HoughCircle"
+        android:title="@string/hough_circle"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/Contour"
+        android:title="@string/contour"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/DetectPeople"
+        android:title="@string/detect_people"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/Settings"
+        android:title="@string/title_activity_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/binary"
+    android:title="@string/binary"
+    android:orderInCategory="100"
+    app:showAsAction="never" />
+
+    <item android:id="@+id/mask_and_houghline"
+        android:title="@string/mask_and_houghline"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

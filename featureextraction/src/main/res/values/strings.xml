@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FeatureExtraction</string>
+    <string name="OpenGallery">Load Image</string>
+    <string name="DoG">DoG</string>
+    <string name="CannyEdges">Canny Edges</string>
+    <string name="SobelFilter">Sobel Filter</string>
+    <string name="HarrisCorner">Harris Corner</string>
+    <string name="HoughLine">Hough Line</string>
+    <string name="hough_circle">Hough Circle</string>
+    <string name="contour">Contour</string>
+    <string name="detect_face">Detect Face</string>
+    <string name="detect_people">Detect People</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="binary">Binary</string>
+    <string name="mask_and_houghline">Mask And Hough Line</string>
+</resources>
